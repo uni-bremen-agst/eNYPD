@@ -1,5 +1,5 @@
 ---
-title: "Welcome to *eNYPD*"
+title: "Welcome to eNYPD"
 permalink : /
 layout: home
 author: Bernhard Berger

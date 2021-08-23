@@ -1,5 +1,5 @@
 main:
   - title: "Home"
     url: /
-  - title	: "Installation"
-    url	   	: /pages/installation
+  - title	: "About"
+    url	   	: /pages/about
