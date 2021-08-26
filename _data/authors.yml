@@ -14,3 +14,12 @@ Bernhard Berger:
       - label: "GitHub"
         icon: "fab fa-fw fa-github"
         url: "https://github.com/bergerbd"
+        
+        
+Wete:
+    name:     "R. Wete Nguempnang"
+  #  avatar:   "/assets/images/me.png"
+    bio:      "Software architecture , Software Security, Code Analysis"
+    location: "Bremen, Bremen, Germany"
+#    email: bernhard.berger@uni-bremen.de
+    
