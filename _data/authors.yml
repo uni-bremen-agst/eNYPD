@@ -1,21 +1,20 @@
 Bernhard Berger:
-    name:     "Bernhard J. Berger"
-    avatar:   "/assets/images/me.png"
-    bio:      "Computer Scientist, Software Security, Static Analysis"
-    location: "Bremen, Bremen, Germany"
-#    email: bernhard.berger@uni-bremen.de
-    links:
-      - label: "Website"
-        icon: "fas fa-fw fa-link"
-        url: "https://bergerbd.de"
-      - label: "0000-0001-6093-9229"
-        icon: "fab da-fw fa-orcid"
-        url: "https://orcid.org/0000-0001-6093-9229"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/bergerbd"
-        
-        
+  name:     "Bernhard J. Berger"
+  avatar:   "/assets/images/berber.png"
+  bio:      "Computer Scientist, Software Security, Static Analysis"
+  location: "Bremen, Bremen, Germany"
+  uri:      "https://bergerbd.de"
+  xing:     "BernhardJohannes_Berger"
+  github:   "bergerbd"
+  #    email: bernhard.berger@uni-bremen.de
+  links:
+    - label: "0000-0001-6093-9229"
+      icon: "fab da-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-6093-9229"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Bernhard-Berger-2"
+
 Wete:
     name:     "R. Wete Nguempnang"
   #  avatar:   "/assets/images/me.png"
