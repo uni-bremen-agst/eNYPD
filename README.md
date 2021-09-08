@@ -9,6 +9,7 @@ You can run eNYPD with the command line: java -jar eNYPD-0.0.1-SNAPSHOT-jar-with
    The QuickStart archive is an illustrative example how to use eNYPD. It is possible to obtain the entry points by running: 
    
   java -jar eNYPD-0.0.1-SNAPSHOT-jar-with-dependencies rt.jar QuickStart
+   
   Entry points are created and placed in xml files located in "QuickStart-1.0/eNYPD/Bean".
 
 ### Installation
