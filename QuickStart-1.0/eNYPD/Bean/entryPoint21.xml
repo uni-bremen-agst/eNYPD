@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classesType xmlns="http://www.informatik.uni-bremen.de/EntryPointModel">
+    <class name="de.example.swt.controller.UsersBean" scope="javax.faces.view.ViewScoped" package="de.example.swt.controller">
+        <attributeOrMethod>
+            <method name="setLastName" return="NO METHOD"/>
+        </attributeOrMethod>
+    </class>
+</classesType>

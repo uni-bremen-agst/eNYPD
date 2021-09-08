@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+    <title>Add a participant</title>
+</h:head>
+<h:body>
+    <ui:composition template="WEB-INF/template.xhtml">
+        <ui:define name="content">
+            <p:panel header="Add participant">
+                <h:form>
+                    <h:panelGrid columns="3">
+                        <p:outputLabel value="First Name:" />
+                        <p:inputText id="first-name"
+                                     value="#{userAddBean.user.firstName}" />
+                        <p:message for="first-name" />
+
+                        <p:outputLabel value="Last Name:" />
+                        <p:inputText id="last-name"
+                                     value="#{userAddBean.user.lastName}" />
+                        <p:message for="last-name" />
+
+                        <p:outputLabel value="E-Mail:" />
+                        <p:inputText id="email" value="#{userAddBean.user.email}"
+                                     binding="#{userAddBean.emailInput}" />
+                        <p:message for="email" />
+
+                        <p:outputLabel value="Role:" />
+                        <p:selectManyCheckbox id="role" value="#{userAddBean.user.roles}" >
+                            <f:selectItems value="#{userAddBean.roles}"/>
+
+                        </p:selectManyCheckbox>
+                        <p:message for="role" />
+
+                        <p:outputLabel value="Password:" />
+                        <p:password id="password" value="#{userAddBean.user.password}"
+                                    feedback="true" match="passwordcon"
+                                    validatorMessage="The passwords do not match" />
+                        <p:message for="password" />
+
+                        <p:outputLabel value="Password (Repeat):" />
+                        <p:password id="passwordcon" value="#{userAddBean.user.password}"/>
+                        <p:message for="passwordcon" />
+                    </h:panelGrid>
+                    <p:messages globalOnly="true" />
+                    <p:commandButton value="Add"
+                                     action="#{userAddBean.add}" ajax="false" />
+                    <p:button value="Cancel" outcome="users.xhtml" />
+                </h:form>
+            </p:panel>
+        </ui:define>
+    </ui:composition>
+</h:body>
+</html>

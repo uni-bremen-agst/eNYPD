@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classesType xmlns="http://www.informatik.uni-bremen.de/EntryPointModel">
+    <class name="de.example.swt.controller.LoginBean" scope="javax.faces.view.ViewScoped" package="de.example.swt.controller">
+        <attributeOrMethod>
+            <method name="submit" return="void"/>
+        </attributeOrMethod>
+    </class>
+</classesType>
