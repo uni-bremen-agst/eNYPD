@@ -3,5 +3,5 @@ main:
     url: /
   - title	: "About"
     url	   	: /pages/about
-  - title: "Usaged"
-    url: /pages/usaged
+  - title: "Usage"
+    url: /pages/usage
