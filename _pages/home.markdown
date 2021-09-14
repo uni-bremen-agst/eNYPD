@@ -2,8 +2,23 @@
 title: "Welcome to eNYPD"
 permalink : /
 layout: home
-author: Wete
+author:
+- Author One
+- Author Two
+date: "`r format(Sys.time(), '%d %B %Y')`"
+tags: [nothing, nothingness]
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+output: 
+    pdf_document:
+        template: NULL
 ---
+
+
+
+
 
 Welcome to the home of *eNYPD*. It's name stands for *Entry Points Detector*
 which is the actual purpose of *eNYPD*. Based on an application's used frameworks
