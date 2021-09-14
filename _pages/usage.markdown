@@ -53,10 +53,10 @@ of the extracted information.
   
   ```xml
   <p:column style="text-align:center" >
-                        <p:commandButton value="Delete"
-                                         action="#{usersBean.delete(u)}"
-                                         update="users"/>
-                    </p:column>
+        <p:commandButton value="Delete"
+                        action="#{usersBean.delete(u)}"
+                        update="users"/>
+  </p:column>
   ```
 
   is 
@@ -65,7 +65,7 @@ of the extracted information.
     ```xml
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<classesType xmlns="http://www.informatik.uni-bremen.de/EntryPointModel">
+<classesType xmlns="...">
     <class name="de.example.swt.controller.UsersBean" scope="javax.faces.view.ViewScoped" package="de.example.swt.controller">
         <attributeOrMethod>
             <method name="delete" return="void">
