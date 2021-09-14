@@ -32,11 +32,9 @@ of the extracted information.
    * [WAR](../war-contents)
 * XML-schema  
    * [XML-schema definition](../xml-schema-contents)
-* Soot and it use
-   * [Annotation Finder](soot/Soot contents) 
-   * [XML-schema Update](xml-schema/XML-schema update)
-* Other JSF Framework 
-* [JSF Framework](JSF Framework contents)
-* [Implementation](java/Java contents)
-* [Evaluation](examples/Evaluation contents)
-* [Conclusion](conclusion/ Conclusion contents)
+* Quickstart  
+   * Installation 
+  Releases are available at [github](https://github.com/uni-bremen-agst/eNYPD/releases/tag/v1.0.0).
+
+  * Running Example 
+
