@@ -1,19 +1,4 @@
-Bernhard Berger:
-  name:     "Bernhard J. Berger"
-  avatar:   "/assets/images/berber.png"
-  bio:      "Computer Scientist, Software Security, Static Analysis"
-  location: "Bremen, Bremen, Germany"
-  uri:      "https://bergerbd.de"
-  xing:     "BernhardJohannes_Berger"
-  github:   "bergerbd"
-  #    email: bernhard.berger@uni-bremen.de
-  links:
-    - label: "0000-0001-6093-9229"
-      icon: "fab da-fw fa-orcid"
-      url: "https://orcid.org/0000-0001-6093-9229"
-    - label: "ResearchGate"
-      icon: "fab fa-fw fa-researchgate"
-      url: "https://www.researchgate.net/profile/Bernhard-Berger-2"
+
 
 Wete:
     name:     "R. Wete Nguempnang"
