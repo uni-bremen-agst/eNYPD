@@ -61,9 +61,11 @@ of the extracted information.
 
   is 
   
-  ```xml
+  
+    ```xml
 
-<classesType xmlns="...">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<classesType xmlns="http://www.informatik.uni-bremen.de/EntryPointModel">
     <class name="de.example.swt.controller.UsersBean" scope="javax.faces.view.ViewScoped" package="de.example.swt.controller">
         <attributeOrMethod>
             <method name="delete" return="void">
@@ -71,6 +73,7 @@ of the extracted information.
             </method>
         </attributeOrMethod>
     </class>
-</classesType>  
+</classesType>
+ 
   
   ```
