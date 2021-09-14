@@ -3,8 +3,6 @@ The figure below is a partial representation of a WAR-archive, everything in red
 
 ![WAR](/assets/images/berber.png)
 
-![FileStructure.vpd](uploads/f8e85e0ccabd489e56d152ecb822fa5f/FileStructure.vpd.png)WAR contents
-
 Each file or folder existing in this schema has a very specific purpose: 
 
  * lib
