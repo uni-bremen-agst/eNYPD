@@ -5,7 +5,6 @@ layout: home
 author:
 - Author One
 - Author Two
-date: "`r format(Sys.time(), '%d %B %Y')`"
 tags: [nothing, nothingness]
 abstract: |
   This is the abstract.
