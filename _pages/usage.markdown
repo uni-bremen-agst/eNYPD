@@ -51,17 +51,10 @@ of the extracted information.
   
   As Example the Entry point for the "CommandButton" "Delete" in "users.xhtml": 
   
-  ```xml
-  <p:column style="text-align:center" >
-        <p:commandButton value="Delete"
-                        action="#{usersBean.delete(u)}"
-                        update="users"/>
-  </p:column>
-  ```
 
   is 
   
- {% highlight xml %}
+ ```xml
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <classesType xmlns="...">
@@ -75,4 +68,4 @@ of the extracted information.
 </classesType>
  
   
-{% endhighlight %}
+  ```
