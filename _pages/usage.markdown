@@ -37,4 +37,4 @@ of the extracted information.
   Releases are available at [github](https://github.com/uni-bremen-agst/eNYPD/releases/tag/v1.0.0).
 
   * Running Example 
- [Example]https://github.com/uni-bremen-agst/eNYPD/tree/example
+ [Example](https://github.com/uni-bremen-agst/eNYPD/tree/example).
