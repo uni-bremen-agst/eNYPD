@@ -1,6 +1,6 @@
 ---
 title: "About *eNYPD*"
-permalink : /about/
+permalink : /about
 layout: home
 author: Bernhard Berger
 author_profile: true
