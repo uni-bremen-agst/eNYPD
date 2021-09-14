@@ -2,17 +2,8 @@
 title: "Welcome to eNYPD"
 permalink : /
 layout: home
-author:
-- Author One
-- Author Two
-tags: [nothing, nothingness]
-abstract: |
-  This is the abstract.
-
-  It consists of two paragraphs.
-output: 
-    pdf_document:
-        template: NULL
+author: Bernhard Berger
+author_profile: true
 ---
 
 
