@@ -71,7 +71,5 @@ of the extracted information.
             </method>
         </attributeOrMethod>
     </class>
-</classesType>
-
-  
+</classesType>  
   ```
