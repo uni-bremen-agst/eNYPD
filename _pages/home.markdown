@@ -4,10 +4,6 @@ permalink : /
 layout: home
 author: Bernhard Berger
 author_profile: true
----
-title: "Welcome to eNYPD"
-permalink : /
-layout: home
 author: Wete
 author_profile: true
 ---
