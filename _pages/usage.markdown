@@ -30,9 +30,8 @@ of the extracted information.
 
 * Web Application Archive (WAR)
    * [WAR](../war-contents)
-* Parser and XML-schema  
-   * [Parser](parser/Parser contents) 
-   * [XML-schema definition](xml-schema/XML-schema contents)
+* XML-schema  
+   * [XML-schema definition](../xml-schema-contents)
 * Soot and it use
    * [Annotation Finder](soot/Soot contents) 
    * [XML-schema Update](xml-schema/XML-schema update)
