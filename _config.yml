@@ -110,7 +110,7 @@ footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://http://uni-bremen-agst.github.io/eNYPD"
+      url: "https://uni-bremen-agst.github.io/eNYPD/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/uni-bremen-agst/eNYPD"
