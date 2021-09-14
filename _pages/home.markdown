@@ -2,9 +2,7 @@
 title: "Welcome to eNYPD"
 permalink : /
 layout: home
-author: 
- 
- - Wete
+author: Wete
 author_profile: true
 ---
 
