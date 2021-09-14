@@ -5,7 +5,6 @@ layout: home
 author: 
 - Bernhard Berger
 - Wete
-author_profile: true
 ---
 
 Welcome to the home of *eNYPD*. It's name stands for *Entry Points Detector*
