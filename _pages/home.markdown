@@ -2,8 +2,9 @@
 title: "Welcome to eNYPD"
 permalink : /
 layout: home
-author: Bernhard Berger
-author: Wete
+authors: 
+ - Bernhard Berger
+ - Wete
 author_profile: true
 ---
 
