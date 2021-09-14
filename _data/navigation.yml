@@ -1,7 +1,0 @@
-main:
-  - title: "Home"
-    url: /
-  - title	: "About"
-    url	   	: /_pages/about
-  - title: "Usage"
-    url: /_pages/usage
