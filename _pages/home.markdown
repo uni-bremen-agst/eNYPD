@@ -2,7 +2,7 @@
 title: "Welcome to eNYPD"
 permalink : /
 layout: home
-author: Bernhard Berger | Wete
+author: Bernhard Berger
 ---
 
 Welcome to the home of *eNYPD*. It's name stands for *Entry Points Detector*
