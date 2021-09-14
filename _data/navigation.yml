@@ -4,4 +4,4 @@ main:
   - title	: "About"
     url	   	: /_pages/about
   - title: "Usage"
-    url: /pages/usage
+    url: /_pages/usage
