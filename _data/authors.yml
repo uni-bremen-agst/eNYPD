@@ -16,9 +16,9 @@ Bernhard Berger:
       url: "https://www.researchgate.net/profile/Bernhard-Berger-2"
 
 Wete:
-    name:     "R. Wete Nguempnang"
+  name:     "R. Wete Nguempnang"
   #  avatar:   "/assets/images/me.png"
-    bio:      "Software architecture , Software Security, Code Analysis"
-    location: "Bremen, Bremen, Germany"
+  bio:      "Software architecture , Software Security, Code Analysis"
+  location: "Bremen, Bremen, Germany"
 #    email: bernhard.berger@uni-bremen.de
     
