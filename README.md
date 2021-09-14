@@ -6,7 +6,7 @@ This information is crucial for different kinds of security analyses, such as Th
 ### Quickstart
 
 You can run eNYPD with the command line: java -jar eNYPD-0.0.1-SNAPSHOT-jar-with-dependencies <path to rt.jar> <path to war file>. 
-   The QuickStart archive  [here](https://github.com/uni-bremen-agst/eNYPD/tree/example).is an illustrative example how to use eNYPD. It is possible to obtain the entry points by running: 
+   The QuickStart archive  ([here](https://github.com/uni-bremen-agst/eNYPD/tree/example))is an illustrative example how to use eNYPD. It is possible to obtain the entry points by running: 
    
   java -jar eNYPD-0.0.1-SNAPSHOT-jar-with-dependencies rt.jar QuickStart
    
