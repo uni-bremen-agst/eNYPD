@@ -30,7 +30,7 @@ points. This comparison allows us to demonstrate the correctness
 of the extracted information.
 
 * Web Application Archive (WAR)
-   * [WAR](war/WAR contents)
+   * [WAR](war/war-contents)
 * Parser and XML-schema  
    * [Parser](parser/Parser contents) 
    * [XML-schema definition](xml-schema/XML-schema contents)
