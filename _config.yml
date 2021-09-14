@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "eNYPD"
 title_separator          : "-"
 subtitle                 : "A Java entry-points detector"
-name                     : "Bernhard J. Berger"
+name                     : "Wete"
 description              :
 url                      : #
 baseurl                  : # the subpath of your site, e.g. "/blog"
