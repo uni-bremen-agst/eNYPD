@@ -62,7 +62,7 @@ of the extracted information.
   is 
   
   
-    ```xml
+  ~~~ xml
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <classesType xmlns="...">
@@ -76,4 +76,4 @@ of the extracted information.
 </classesType>
  
   
-  ```
+  ~~~
