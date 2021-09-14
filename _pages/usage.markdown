@@ -62,7 +62,7 @@ of the extracted information.
   is 
   
   ```xml
-  <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <classesType xmlns="...">
     <class name="de.example.swt.controller.UsersBean" scope="javax.faces.view.ViewScoped" package="de.example.swt.controller">
         <attributeOrMethod>
@@ -72,4 +72,5 @@ of the extracted information.
         </attributeOrMethod>
     </class>
 </classesType>  
+  
   ```
