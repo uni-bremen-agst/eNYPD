@@ -70,7 +70,9 @@ of the extracted information.
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <classesType xmlns="...">
-    <class name="de.example.swt.controller.UsersBean" scope="javax.faces.view.ViewScoped" package="de.example.swt.controller">
+    <class name="de.example.swt.controller.UsersBean" 
+           scope="javax.faces.view.ViewScoped" 
+           package="de.example.swt.controller">
         <attributeOrMethod>
             <method name="delete" return="void">
                 <parameter>de.example.swt.model.User</parameter>
