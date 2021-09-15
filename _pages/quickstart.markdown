@@ -5,7 +5,7 @@
   
   java -jar eNYPD-0.0.1-SNAPSHOT-jar-with-dependencies <path to rt.jar> <path to war file>. 
 
-  * Running Example 
+ * Running Example 
  [Here](https://github.com/uni-bremen-agst/eNYPD/tree/example) is an WAR- archive, we use it as illustrative example to show  how eNYPD works. 
 
   It is possible to obtain the entry points by running: 
