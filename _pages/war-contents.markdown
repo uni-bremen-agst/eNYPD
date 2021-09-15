@@ -1,7 +1,7 @@
 The structure of web applications, especially JSF applications, reveal documents of several types. In the details we have Xhtml, java, XML and other resources like scripts, images, libraries.
 The figure below is a partial representation of a WAR-archive, everything in red is present in all web applications.
 
-![WAR]("/assets/images/berber.png")
+![WAR](/assets/images/berber.png)
 
 Each file or folder existing in this schema has a very specific purpose: 
 
