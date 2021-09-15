@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "A Java entry-points detector"
 name                     : "Bernhard J. Berger"
 description              :
-url                      : #
+url                      : "https://uni-bremen-agst.github.io/eNYPD" #
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "uni-bremen-agst/eNYPD"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
