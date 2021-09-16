@@ -1,3 +1,10 @@
+---
+title: "Implementation"
+permalink : /
+layout: home
+author: Wete
+author_profile: true
+---
 
 * The Two step of eNYPD.
 
