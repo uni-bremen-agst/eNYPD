@@ -1,3 +1,12 @@
+---
+title: "Quickstart"
+layout: home
+author: Wete
+author_profile: true
+---
+
+
+
 * Installation 
   Releases are available at [github](https://github.com/uni-bremen-agst/eNYPD/releases/tag/v1.0.0).
   After downloading the version of eNYPD above. 
