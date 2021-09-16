@@ -1,6 +1,6 @@
 ---
 title: "Implementation"
-permalink : /
+permalink : /eNYPD/_pages/implementation/
 layout: home
 author: Wete
 author_profile: true
